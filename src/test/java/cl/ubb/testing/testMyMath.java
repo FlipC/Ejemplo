@@ -31,4 +31,5 @@ public class testMyMath {
 		assertEquals(resultado, 3);
 	
 	}
+	
 }
